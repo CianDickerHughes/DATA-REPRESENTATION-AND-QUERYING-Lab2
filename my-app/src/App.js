@@ -4,6 +4,7 @@ import Header from './components/Header';
 import Footer from './components/Footer';
 import Content from './components/Content';
 
+// app controls and navigation
 function App() {
   return (
     <Router>

@@ -1,5 +1,6 @@
 import React from 'react';
 
+// the content of the home screen
 const Content = () => {
   return (
     <div>
